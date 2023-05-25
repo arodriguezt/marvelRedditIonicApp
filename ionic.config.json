@@ -1,0 +1,7 @@
+{
+  "name": "redditApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
